@@ -1,1 +1,2 @@
-word=input("Enter the key:")
+word=input("Enter the text:")
+key=int(input("Enter the key:"))
