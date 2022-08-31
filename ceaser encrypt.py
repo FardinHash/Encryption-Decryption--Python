@@ -1,6 +1,7 @@
 
 word=input("ENTER THE PLAIN KEY:")
 key=int(input("ENTER THE KEY:"))
+
 nword=''
 
 ascii=nwa=0
